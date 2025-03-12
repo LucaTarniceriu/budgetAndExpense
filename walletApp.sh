@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#location="/run/user/1000/gvfs/afp-volume:host=server.local,user=admin,volume=music/wallet"
 location="/home/themartianx/Projects/wallet"
 suma="start"
 while true
